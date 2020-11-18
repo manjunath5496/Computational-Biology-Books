@@ -12,7 +12,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(3).pdf" style="text-decoration:none;">Application of Computational Biology to Decode Brain Transcriptomes</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(4).pdf" style="text-decoration:none;">Computational Biology and  Bioinformatics: A Gentle Overview</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(5).pdf" style="text-decoration:none;">Computational biology: deep learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(6).pdf" style="text-decoration:none;">Advancing Computational Biology and Bioinformatics Research Through Open Innovation Competitions</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(7).pdf" style="text-decoration:none;">Deep learning for computational biology</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Computational-Biology-Books/blob/master/cou(8).pdf" style="text-decoration:none;"> Tracing the footsteps of autophagy in computational biology </a></li>
